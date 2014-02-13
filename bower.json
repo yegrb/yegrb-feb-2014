@@ -1,0 +1,27 @@
+{
+  "name": "yegrb-feb-2014",
+  "version": "0.0.1",
+  "authors": [
+    "Mark Bennett <mark@burmis.ca>"
+  ],
+  "description": "Notes for the YEGrb Feb 2014 Meetup",
+  "main": "index.html",
+  "keywords": [
+    "notes",
+    "yegrb",
+    "feb-2014"
+  ],
+  "license": "MIT",
+  "homepage": "http://yegrb.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}
